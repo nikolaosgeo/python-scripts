@@ -1,0 +1,23 @@
+This is a file that contains a few cell phone numbers
+
+System dials out to (650) 665-5555
+
+System ends the call
+
+System dials 650 646-3333
+
+Incoming call from 415 344-7777
+
+Outgoing call to (540) 232-1112
+
+Time is 14:34:54.908
+
+Dial attempts 3422
+
+IP address 192.0.8.168
+
+Serial number 980348213657
+
+System dials out to 325 546 8888
+
+More random numbers following
